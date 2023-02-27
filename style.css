@@ -127,6 +127,10 @@ textarea {
   margin-left: 53px;
 }
 
+.money {
+  margin-left: 50px ;
+}
+
 .contact-text a {
   color: #000000;
   text-decoration: none;
@@ -137,6 +141,7 @@ textarea {
   color: red;
   text-decoration: none;
 }
+
 
 
 
